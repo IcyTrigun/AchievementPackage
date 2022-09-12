@@ -1,5 +1,5 @@
 {
-  "name": "achievementpackage",
+  "name": "@IcyTrigun/achievementpackage",
   "version": "1.0.0",
   "description": "create and manage Achievements for gamification",
   "main": "index.js",
