@@ -1,0 +1,26 @@
+{
+  "name": "achievementpackage",
+  "version": "1.0.0",
+  "description": "create and manage Achievements for gamification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IcyTrigun/AchievementPackage.git"
+  },
+  "keywords": [
+    "Achievements",
+    "Gamification"
+  ],
+  "author": "IcyTrigun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IcyTrigun/AchievementPackage/issues"
+  },
+  "homepage": "https://github.com/IcyTrigun/AchievementPackage#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
